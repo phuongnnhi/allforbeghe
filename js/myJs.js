@@ -121,7 +121,7 @@ $('#yes').click(function() {
                 confirmButtonText: 'đi ăn với bebi',
                 background: '#ef6a8a url("../img/iput-bg.jpg")',
                 title: 'Happy White Valentine bé ghệ <3',
-                text: "I love how you open the footrests for me, switch your food with me if I like yours better, gently rub my finger whenever we hold hands, buy me milktea when picking me up after class, compassionately listen to my stories, and learn my love language. Thank you for always being so kind, calm, respectful, and super supportive. Everything lasts for a while, and this might be among those whiles I dont ever want to pass. xoxo.",
+                text: "I love how you open the footrests for me, hug and kiss me everytime we say goodbye, switch your food with me if I like yours better, gently rub my finger whenever we hold hands, buy me milktea when picking me up after class, compassionately listen to my stories, and learn my love language. Thank you for always being so kind, calm, respectful, and super supportive. Everything lasts for a while, and this might be among those whiles I dont ever want to pass. xoxo.",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
             window.location = "https://www.facebook.com/phuongnhi.ledoan/";
