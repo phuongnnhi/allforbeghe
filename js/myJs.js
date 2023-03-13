@@ -9,7 +9,6 @@ $(document).ready(function() {
         });
     }, 600);
 })
-
 function firstQuestion(){
     
     $('.content').hide();
@@ -88,7 +87,10 @@ function textGenerate() {
     $('#txtReason').val(n);
     setTimeout("textGenerate()", 1);
 }
-
+function play() {
+  var audio = new Audio('./sound/MCR.mp3');
+  audio.play();
+}
 // show popup
 $('#yes').click(function() {
     var audio = new Audio('./sound/tick.mp3');
