@@ -45,6 +45,16 @@
 .swal2-popup {
   border-radius: 15px !important;
 }
+    button {
+      background-color: 	#20B2AA; /* Green */
+      border: none;
+      color: white;
+      padding: 8px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+    }
 header h2 {
   font-family: 'Helvetica';
   font-size: 80px;
